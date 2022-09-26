@@ -3,6 +3,32 @@
 ## Description:
  Inspiration is a Pinterest-inspired app. Users can organize images and links of interest in a visually appealing way.
 
+## Technologies Used
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Getting Started!
+
+[Link to App](https://inspiration-ga725.herokuapp.com/)
+
+Instructions: login with a username and email to get started
+
+## App Screenshots
+
 ## Developer Team
 
 | Developer | Role | Description |
@@ -13,30 +39,11 @@
 | [Brianna Dukes](https://github.com/BDukesuwu) | Documenter | In charge of the README, etc |
 | [Patrick Tien](https://github.com/CPTien) | SCRUM Master | Leader of the Agile processes (User Stories, Stand-Ups, etc.) and manager of Trello. |
 
-## Technologies Used
-
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/cssref/)
-- [Bootstrap](https://bootstrap.build/app)
-- [Python](https://www.python.org/about/)
-- [JavaScript](https://developer.mozilla.org/en-US/)
-- [Django](https://www.djangoproject.com/start/overview/)
-- [Heroku](https://www.heroku.com/home)
-- [AWS](https://aws.amazon.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [Whimsical](https://whimsical.com/)
-- [Imgur](https://imgur.com/)
-
-## Getting Started!
-
-[Link to App](https://inspiration-ga725.herokuapp.com/)
-
 ## Wins
 - Learning great teamwork practices for pushing and pulling code together
 - Adding Responsive CSS
 - User Authentication
 - Being able to add an inspiration to a Gallery and display it!
-
 
 ## Hurdles
 - Being able to add an inspiration to a Gallery and display it.
@@ -47,6 +54,10 @@
 
 - [ ] The ability to delete or edit a note.
 - [ ] The first image added to the Gallery should be displayed as the thumbnail for that Gallery.
+
+## Planning Charts
+
+## Planning Links
 
 ## Credits
 - Mutiullah Samim - color scheme and login form inspiration
