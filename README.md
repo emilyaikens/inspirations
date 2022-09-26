@@ -21,6 +21,8 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 ## Getting Started!
 
 [Link to App](https://inspiration-ga725.herokuapp.com/)
@@ -40,20 +42,21 @@ Instructions: login with a username and email to get started
 | [Patrick Tien](https://github.com/CPTien) | SCRUM Master | Leader of the Agile processes (User Stories, Stand-Ups, etc.) and manager of Trello. |
 
 ## Wins
-- Learning great teamwork practices for pushing and pulling code together
-- Adding Responsive CSS
-- User Authentication
-- Being able to add an inspiration to a Gallery and display it!
+* Learning great teamwork practices for pushing and pulling code together
+* Adding Responsive CSS
+* User Authentication
+* Being able to add an inspiration to a Gallery and display it!
 
 ## Hurdles
-- Being able to add an inspiration to a Gallery and display it.
-- Gallery drop-down menu when creating an inspiration. We could not see all available Galleries in the list
-- Setting up a working Repository was a struggle for a while, considering we forgot a key factor; the git.ignore file. Once we added one, things became a lot smoother.
+* Being able to add an inspiration to a Gallery and display it.
+* Gallery drop-down menu when creating an inspiration. We could not see all available Galleries in the list
+* Setting up a working Repository was a struggle for a while, considering we forgot a key factor; the git.ignore file. Once we added one, things became a lot smoother.
 
 ## Future features
 
-- [ ] The ability to delete or edit a note.
-- [ ] The first image added to the Gallery should be displayed as the thumbnail for that Gallery.
+* Ensure that users can only add inspirations to their own galleries, and not other users galleries
+* The ability to delete or edit a note.
+* The first image added to the Gallery should be displayed as the thumbnail for that Gallery (the random squash photo is a place holder until this function is implemented)
 
 ## Planning Charts
 
@@ -69,7 +72,3 @@ Instructions: login with a username and email to get started
 <img src="https://imgur.com/p6bdJEY.png" width="300">
 </details>
 
-
-![GitHub language count](https://img.shields.io/github/languages/count/fernando-massa/inspirations)
-![GitHub top language](https://img.shields.io/github/languages/top/fernando-massa/inspirations?color=pink)
-![GitHub language version](https://img.shields.io/pypi/pyversions/Django)
