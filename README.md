@@ -20,7 +20,7 @@
 
 [Link to App](https://inspiration-ga725.herokuapp.com/)
 
-Instructions: Log in with a username and email to get started
+Instructions: Sign up with an email and password then log in to get started
 
 ## App Screenshots
 
@@ -79,7 +79,6 @@ Home page
 <summary> ERD Screenshot </summary>
 <img src="https://i.imgur.com/gW0FfWB.png">
 </details>
-<br/>
 
 ## Credits
 - Mutiullah Samim - color scheme and login form inspiration
