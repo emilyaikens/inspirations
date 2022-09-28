@@ -3,6 +3,15 @@
 ## Description:
  Inspiration is a Pinterest-inspired app. Users can organize images and links of interest in a visually appealing way.
 
+## Technical Requirements 
+* Must be a full-stack Django application
+* Connect to and perform data operations on a Postgres database
+* Have at least two data entities: one 1:M and one M:M relationship
+* Have full-CRUD data operations
+* Authenticate users using Django's built-in authentication
+* Implement authorization by restricting access to the creation, updating, and deletion of data resources using the login_required decorator etc.
+* Deploy app online with Heroku
+
 ## Technologies Used
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
