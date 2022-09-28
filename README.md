@@ -11,6 +11,7 @@
 * Authenticate users using Django's built-in authentication
 * Implement authorization by restricting access to the creation, updating, and deletion of data resources using the login_required decorator etc.
 * Deploy app online with Heroku
+* Team must manage team contributions and collaboration using Git/GitHub team work-flow
 
 ## Technologies Used
 
